@@ -1,7 +1,6 @@
 import smtplib
 import requests
 from bs4 import BeautifulSoup
-import lxml
 
 # Price you want to spend on a product
 BUY_PRICE = 140
